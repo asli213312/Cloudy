@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Advanced Weather App</string>
+    <string name="APP_TAG">MY_TAG</string>
+</resources>
